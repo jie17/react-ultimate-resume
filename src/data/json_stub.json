@@ -3,7 +3,7 @@
       "name": "Jie Lu",
       "label": "Programmer & startupper",
       "picture": "https://avatars.githubusercontent.com/u/2233760?s=460&u=effb5d486cc7d72ecd502b69ba6efa5b8377e7f2&v=4",
-      "email": "jie@duotech.biz",
+      "email": "me@jie.lv",
       "phone": "",
       "website": "https://jie.lv/",
       "summary": "Programmer & startupper",
@@ -108,7 +108,7 @@
     ],
     "skills": [
       {
-        "name": "Full stack",
+        "name": "full stack",
         "level": "Master",
         "value": 100,
         "index": -1,
@@ -263,7 +263,7 @@
         "description": "An enterprise search system maining indexing files from various sources like SMB and Google Drive\nUsing mainly React (ReasonML) and Spring Boot\nWith middlewares like ElasticSearch, PostgreSQL, RabbitMQ and minio\nDeployed with Kubernetes and ansible",
         "id": "d9f7ca32-a40a-418e-affb-317bfb4f520e",
         "name": "HUE search",
-        "endDate": "2020-08-01"
+        "endDate": "2019-08-01"
       },
       {
         "index": 0,
