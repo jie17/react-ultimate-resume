@@ -1,359 +1,269 @@
 {
     "basics": {
-      "name": "Jie Lu",
-      "label": "Programmer & startupper",
-      "picture": "https://avatars.githubusercontent.com/u/2233760?s=460&u=effb5d486cc7d72ecd502b69ba6efa5b8377e7f2&v=4",
-      "email": "me@jie.lv",
-      "phone": "",
-      "website": "https://jie.lv/",
-      "summary": "Programmer & startupper",
-      "location": { "city": "Tokyo", "countryCode": "JP", "region": "Tokyo" },
-      "profiles": []
+        "name": "Jie Lu",
+        "label": "Programmer & startupper",
+        "picture": "https://avatars.githubusercontent.com/u/2233760?s=460&u=effb5d486cc7d72ecd502b69ba6efa5b8377e7f2&v=4",
+        "email": "me@jie.lv",
+        "phone": "",
+        "website": "https://jie.lv/",
+        "summary": "Programmer & startupper",
+        "location": { "city": "Tokyo", "countryCode": "JP", "region": "Tokyo" },
+        "profiles": []
     },
     "work": [
-      {
-        "name": "DuoTech",
-        "position": "Cofounder",
-        "website": "https://duotech.biz/",
-        "startDate": "2019-08-01",
-        "summary": "Led the development of several projects outsourced from a listed company\nDeveloping a game companion service, including server side and frontend\n",
-        "location": "Chiba, Japan",
-        "highlights": [
-          "Led the development of several projects outsourced from a listed company"
-        ],
-        "id": "c9376560-4993-4d10-a409-d10296a0f42d",
-        "place": { "name": "Chiba, Japan" },
-        "stillEmployed": true,
-        "index": 0
-      },
-      {
-        "name": "Works Applications",
-        "position": "Software developer",
-        "website": "https://www.worksap.co.jp/",
-        "startDate": "2017-04-01",
-        "endDate": "2019-07-31",
-        "summary": "Led the front end development and worked on backend and deployment  in an enterprise search application from scratch\nMaintained a legacy 10+-year-old enterprise application",
-        "location": "Tokyo, Japan",
-        "highlights": [
-          "Led the front end development and worked on backend and deployment  in an enterprise search application from scratch"
-        ],
-        "id": "1ce8f1a2-c8e3-4b03-a337-c283ef79a4ac",
-        "place": { "name": "Tokyo, Japan" },
-        "stillEmployed": false,
-        "index": 1
-      },
-      {
-        "name": "Odigo",
-        "position": "Software developer",
-        "website": "http://company.com",
-        "summary": "Worked on a travel community website using Ruby on Rails and React\nDeveloped  a Japanese learning  video application using React Native and published both iOS and Android versions on App Store and Google Play",
-        "location": "Tokyo, Japan",
-        "highlights": ["Started the company"],
-        "id": "461556b5-d1f4-4e2c-9288-0d8f3acfa1f3",
-        "startDate": "2016-08-03",
-        "endDate": "2017-03-01",
-        "place": { "name": "Tokyo, Japan" },
-        "stillEmployed": false,
-        "index": 2
-      }
+        {
+            "name": "DuoTech",
+            "position": "Cofounder",
+            "website": "https://duotech.biz/",
+            "startDate": "2019-08-01",
+            "summary": "Led the development of several projects ranging from B2B to B2C industries",
+            "location": "Chiba, Japan",
+            "highlights": ["Led the development of several projects outsourced from a listed company"],
+            "id": "c9376560-4993-4d10-a409-d10296a0f42d",
+            "place": { "name": "Chiba, Japan" },
+            "stillEmployed": true,
+            "index": 0
+        },
+        {
+            "name": "Works Applications",
+            "position": "Software developer",
+            "website": "https://www.worksap.co.jp/",
+            "startDate": "2017-04-01",
+            "endDate": "2019-07-31",
+            "summary": "Led the front end development and worked on backend and deployment  in an enterprise search application from scratch\nMaintained a legacy 10+-year-old enterprise application",
+            "location": "Tokyo, Japan",
+            "highlights": [
+                "Led the front end development and worked on backend and deployment  in an enterprise search application from scratch"
+            ],
+            "id": "1ce8f1a2-c8e3-4b03-a337-c283ef79a4ac",
+            "place": { "name": "Tokyo, Japan" },
+            "stillEmployed": false,
+            "index": 1
+        },
+        {
+            "name": "Odigo",
+            "position": "Software developer",
+            "website": "http://company.com",
+            "summary": "Worked on a travel community website using Ruby on Rails and React\nDeveloped  a Japanese learning  video application using React Native and published both iOS and Android versions on App Store and Google Play",
+            "location": "Tokyo, Japan",
+            "highlights": ["Started the company"],
+            "id": "461556b5-d1f4-4e2c-9288-0d8f3acfa1f3",
+            "startDate": "2016-08-03",
+            "endDate": "2017-03-01",
+            "place": { "name": "Tokyo, Japan" },
+            "stillEmployed": false,
+            "index": 2
+        }
     ],
     "volunteer": [
-      {
-        "organization": "Organization",
-        "position": "Volunteer",
-        "website": "http://organization.com/",
-        "endDate": "2013-01-01",
-        "summary": "Description...",
-        "highlights": ["Awarded 'Volunteer of the Month'"]
-      }
+        {
+            "organization": "Organization",
+            "position": "Volunteer",
+            "website": "http://organization.com/",
+            "endDate": "2013-01-01",
+            "summary": "Description...",
+            "highlights": ["Awarded 'Volunteer of the Month'"]
+        }
     ],
     "education": [
-      {
-        "institution": "The University of Tokyo",
-        "area": "Computer Science",
-        "studyType": "Master",
-        "startDate": "2014-10-01",
-        "endDate": "2017-03-31",
-        "gpa": "4.0",
-        "courses": [],
-        "id": "9881bdb6-6572-4bb4-9267-406a059c888a"
-      },
-      {
-        "institution": "Fudan University",
-        "area": "Electronic Engineering",
-        "studyType": "Bachelor",
-        "startDate": "2010-09-01",
-        "endDate": "2014-07-31",
-        "gpa": "4.0",
-        "courses": [],
-        "id": "ec3141b0-6026-4a82-b277-c3158c716c6b"
-      }
+        {
+            "institution": "The University of Tokyo",
+            "area": "Computer Science",
+            "studyType": "Master",
+            "startDate": "2014-10-01",
+            "endDate": "2017-03-31",
+            "gpa": "4.0",
+            "courses": [],
+            "id": "9881bdb6-6572-4bb4-9267-406a059c888a"
+        },
+        {
+            "institution": "Fudan University",
+            "area": "Electronic Engineering",
+            "studyType": "Bachelor",
+            "startDate": "2010-09-01",
+            "endDate": "2014-07-31",
+            "gpa": "4.0",
+            "courses": [],
+            "id": "ec3141b0-6026-4a82-b277-c3158c716c6b"
+        }
     ],
-    "awards": [
-      {
-        "title": "Award",
-        "date": "2014-11-01",
-        "awarder": "Company",
-        "summary": "There is no spoon."
-      }
-    ],
+    "awards": [{ "title": "Award", "date": "2014-11-01", "awarder": "Company", "summary": "There is no spoon." }],
     "publications": [
-      {
-        "name": "Publication",
-        "publisher": "Company",
-        "releaseDate": "2014-10-01",
-        "website": "http://publication.com",
-        "summary": "Description..."
-      }
+        {
+            "name": "Publication",
+            "publisher": "Company",
+            "releaseDate": "2014-10-01",
+            "website": "http://publication.com",
+            "summary": "Description..."
+        }
     ],
     "skills": [
-      {
-        "name": "full stack",
-        "level": "Master",
-        "value": 100,
-        "index": -1,
-        "id": "9816336c-022a-4e3d-9114-7ac39b09807c"
-      },
-      {
-        "name": "React",
-        "level": "Master",
-        "value": 90,
-        "keywords": ["HTML", "CSS", "Javascript"],
-        "index": 0,
-        "id": "e61e0725-67d7-4133-882d-d60440af5613"
-      },
-      {
-        "name": "NodeJS",
-        "level": "Master",
-        "value": 80,
-        "keywords": ["HTML", "CSS", "Javascript"],
-        "index": 1,
-        "id": "46b26cba-0939-4df3-a91d-8df471383f3a"
-      },
-      {
-        "name": "Firebase",
-        "level": "Master",
-        "value": 60,
-        "keywords": ["HTML", "CSS", "Javascript"],
-        "index": 2,
-        "id": "09118af2-4072-4d42-a75f-b0931af8db91"
-      },
-      {
-        "name": "K8S",
-        "level": "Master",
-        "value": 60,
-        "keywords": ["HTML", "CSS", "Javascript"],
-        "index": 3,
-        "id": "39110a47-f43f-44d5-9be1-45f15be78ab7"
-      },
-      {
-        "name": "Amazon Web Services",
-        "index": 4,
-        "value": 70,
-        "id": "db62b7fe-6b0a-4d51-a83d-091ac45f6258"
-      },
-      {
-        "name": "Git",
-        "index": 5,
-        "value": 100,
-        "id": "e4a5754f-ff22-42df-b34e-7a5a9b6734fd"
-      },
-      {
-        "name": "Github",
-        "index": 6,
-        "value": 100,
-        "id": "5faa9ad2-3170-4fbe-a43b-830c71b8d2cd"
-      },
-      {
-        "name": "React Native",
-        "index": 7,
-        "value": 80,
-        "id": "ab3b3231-358a-464b-82d5-bab9d8f66826"
-      },
-      {
-        "name": "ReasonML",
-        "index": 8,
-        "value": 80,
-        "id": "7fabdd46-4400-43d0-b4b7-1e5320834896"
-      },
-      {
-        "name": "NestJS",
-        "index": 9,
-        "value": 80,
-        "id": "1f151365-8359-4977-a8b8-874502d6f8ba"
-      },
-      {
-        "name": "Google Cloud",
-        "index": 10,
-        "value": 80,
-        "id": "0b7bffb0-347a-46b9-9abc-7bdf9692bb75"
-      },
-      {
-        "name": "Docker",
-        "index": 11,
-        "value": 90,
-        "id": "7cb54286-4977-41f1-9e28-b95242331ffd"
-      },
-      {
-        "name": "Kotlin",
-        "index": 12,
-        "value": 80,
-        "id": "7cb54286-4977-41f1-9e28-b95242331ffd"
-      },
-      {
-        "name": "Java",
-        "index": 12,
-        "value": 80,
-        "id": "7cb54286-4977-41f1-9e28-b95242331ffd"
-      },
-      {
-        "name": "Pulumi",
-        "index": 12,
-        "value": 80,
-        "id": "7cb54286-4977-41f1-9e28-b95242331ffd"
-      }
+        {
+            "name": "full stack",
+            "level": "Master",
+            "value": 100,
+            "index": 0,
+            "id": "c28c4ffa-f9dc-4d01-b588-ddcb3331e137"
+        },
+        {
+            "name": "React",
+            "level": "Master",
+            "value": 90,
+            "keywords": ["HTML", "CSS", "Javascript"],
+            "index": 1,
+            "id": "3159df8b-516f-45d5-a441-a876351f5658"
+        },
+        { "name": "Amazon Web Services", "index": 2, "value": 70, "id": "75d0ffdd-b3b8-4de8-9eaf-362e89b680e0" },
+        { "name": "Typescript", "index": 3, "value": 90, "id": "5ed549a3-8060-4559-b053-ff7b2c1e42c8" },
+        { "name": "Github", "index": 4, "value": 100, "id": "5c9d8602-ac9c-419e-9513-d6f53e7d6fb0" },
+        { "name": "React Native", "index": 5, "value": 80, "id": "d61250d9-09b7-45be-834b-dd578da0b5fb" },
+        { "name": "Flutter", "index": 6, "value": 80, "id": "94f1babc-c839-41e6-8d92-72429bf44e1a" },
+        { "name": "NestJS", "index": 7, "value": 80, "id": "d79569d7-ad7c-4768-ae7c-9c45fdbc9bf7" },
+        { "name": "Docker", "index": 8, "value": 90, "id": "33634c5e-852e-444a-88a3-91ebebad6a8e" },
+        { "name": "Kotlin", "index": 9, "value": 80, "id": "289a4f91-286d-44e9-a4a5-62fe5b347f4a" },
+        { "name": "Pulumi", "index": 10, "value": 80, "id": "c0b8d313-d42d-41ec-af3a-919b3519f909" }
     ],
     "languages": [
-      { "language": "Chinese", "value": 100, "fluency": "Native speaker" },
-      { "language": "English", "value": 80, "fluency": "Proficient" },
-      { "language": "Japanese", "value": 80, "fluency": "Proficient" }
+        { "language": "Chinese", "value": 100, "fluency": "Native speaker" },
+        { "language": "English", "value": 80, "fluency": "Proficient" },
+        { "language": "Japanese", "value": 80, "fluency": "Proficient" }
     ],
     "interests": [
-      {
-        "name": "France europe gif by nike football",
-        "gifUrl": "https://media1.giphy.com/media/3oD3YooLLYg0AfOPdK/giphy-downsized.gif?cid=f7fb5bbaegu1ofs48lty41dyowqsfo0wq9qq8h4czot7rwm1&rid=giphy-downsized.gif",
-        "id": "afa5739f-f868-464e-a1aa-18f5a3ff4e2b",
-        "gifUser": {
-          "name": "Nike Football",
-          "profileUrl": "https://giphy.com/nikefootball/",
-          "isVerified": true,
-          "profileAvatarUrl": "https://media1.giphy.com/avatars/nikefootball/vPyZcrShcXY8.jpg"
-        }
-      },
-      {
-        "name": "Burritos",
-        "gifUrl": "https://media.giphy.com/media/d8WjGORtSEWqc/giphy.gif"
-      },
-      {
-        "name": "Tendresse",
-        "gifUrl": "https://media.giphy.com/media/EehnUUCH2JcwU/giphy.gif"
-      },
-      {
-        "name": "Something",
-        "gifUrl": "https://media.giphy.com/media/xTiTnIuKP1BLsMTerS/giphy.gif"
-      },
-      {
-        "name": "J'aime faire de la course à pied et des randonnées en famille le weekend."
-      }
+        {
+            "name": "France europe gif by nike football",
+            "gifUrl": "https://media1.giphy.com/media/3oD3YooLLYg0AfOPdK/giphy-downsized.gif?cid=f7fb5bbaegu1ofs48lty41dyowqsfo0wq9qq8h4czot7rwm1&rid=giphy-downsized.gif",
+            "id": "afa5739f-f868-464e-a1aa-18f5a3ff4e2b",
+            "gifUser": {
+                "name": "Nike Football",
+                "profileUrl": "https://giphy.com/nikefootball/",
+                "isVerified": true,
+                "profileAvatarUrl": "https://media1.giphy.com/avatars/nikefootball/vPyZcrShcXY8.jpg"
+            }
+        },
+        { "name": "Burritos", "gifUrl": "https://media.giphy.com/media/d8WjGORtSEWqc/giphy.gif" },
+        { "name": "Tendresse", "gifUrl": "https://media.giphy.com/media/EehnUUCH2JcwU/giphy.gif" },
+        { "name": "Something", "gifUrl": "https://media.giphy.com/media/xTiTnIuKP1BLsMTerS/giphy.gif" },
+        { "name": "J'aime faire de la course à pied et des randonnées en famille le weekend." }
     ],
     "references": [{ "name": "Jane Doe", "reference": "Reference..." }],
     "projects": [
-      {
-        "index": 2,
-        "date": { "month": 3, "year": 2017 },
-        "description": "A travel community website using Ruby on Rails and React.",
-        "id": "af4181b1-8955-47fb-8dd9-17c6974335d3",
-        "link": "https://www.tokyocreative.com/",
-        "name": "Odigo",
-        "endDate": "2017-03-01"
-      },
-      {
-        "index": 1,
-        "date": { "month": 7, "year": 2019 },
-        "description": "An enterprise search system maining indexing files from various sources like SMB and Google Drive\nUsing mainly React (ReasonML) and Spring Boot\nWith middlewares like ElasticSearch, PostgreSQL, RabbitMQ and minio\nDeployed with Kubernetes and ansible",
-        "id": "d9f7ca32-a40a-418e-affb-317bfb4f520e",
-        "name": "HUE search",
-        "endDate": "2019-08-01"
-      },
-      {
-        "index": 0,
-        "date": { "month": 3, "year": 2021 },
-        "description": "A game companion service which connects those who want companion during gaming and those who want to earn through providing the companion service\nBackend built with NestJS, Firebase, MongoDB\nMobile application built with React Native",
-        "id": "ffb8a4f2-24e6-44ef-bbe7-0593b86d40be",
-        "name": "Game companion service (in progress)",
-        "endDate": "2020-07-01"
-      }
+        {
+            "name": "Doorknob Agent",
+            "date": "2020-10-10T14:46:45.258Z",
+            "description": "Doorknob agent is a platform to connect real estate agents and buyers, born at SoftBank Innoventure. It introduces an innovative way to allow users register what their ideal houses look like and get notified about selected candidates of houses from the agents.",
+            "link": "https://www.doorknobagent.com/",
+            "id": "eea7c285-9fd2-46df-9aef-7ebe3738f614",
+            "endDate": "2020-10-10",
+            "index": 0
+        },
+        {
+            "name": "Famifami",
+            "date": "2021-04-10T14:50:37.855Z",
+            "description": "Famifami is a platform for users who value families to find their ideal life partners. The vision is to create a world where mature partners can have the peace of mind to create happy, loving families.",
+            "link": "https://www.famifami.co/",
+            "id": "d9990417-92c3-40df-aebd-7d2a15faec4e",
+            "endDate": "2021-04-10",
+            "index": 1
+        },
+        {
+            "index": 2,
+            "date": "2020-06-30T15:00:00.000Z",
+            "description": "GameMates is a game companion service which connects those who want companion during gaming and those who want to earn through providing the companion service.\nBackend is built with NestJS, Firebase, MongoDB.\nMobile application is built with React Native.",
+            "id": "ffb8a4f2-24e6-44ef-bbe7-0593b86d40be",
+            "name": "GameMates",
+            "endDate": "2020-07-01",
+            "link": "https://www.gamemates.app/"
+        },
+        {
+            "index": 3,
+            "date": { "month": 7, "year": 2019 },
+            "description": "An enterprise search system maining indexing files from various sources like SMB and Google Drive\nUsing mainly React (ReasonML) and Spring Boot\nWith middlewares like ElasticSearch, PostgreSQL, RabbitMQ and minio\nDeployed with Kubernetes and ansible",
+            "id": "d9f7ca32-a40a-418e-affb-317bfb4f520e",
+            "name": "HUE search",
+            "endDate": "2019-08-01"
+        },
+        {
+            "index": 4,
+            "date": { "month": 3, "year": 2017 },
+            "description": "A travel community website using Ruby on Rails and React.",
+            "id": "af4181b1-8955-47fb-8dd9-17c6974335d3",
+            "link": "https://www.tokyocreative.com/",
+            "name": "Odigo",
+            "endDate": "2017-03-01"
+        }
     ],
     "specific": {
-      "basics": {
-        "visaSponsorship": false,
-        "personalDescription": "A programmer now stepping into the startup world"
-      },
-      "currentJob": {
-        "issues": { "boring_management": true, "boring_team": true }
-      },
-      "education": { "studiesLevel": 7 },
-      "work": {
-        "contractTypes": ["permanent"],
-        "codingYears": 10,
-        "codingReason": "",
-        "searchState": "notSearching",
-        "experienceYears": 0,
-        "codeExperienceYears": 4,
-        "otherExperienceYears": 0
-      },
-      "sound": {
-        "embedUrl": "https://open.spotify.com/embed/playlist/37i9dQZF1DWWl7MndYYxge"
-      },
-      "interestedBy": "Data science, Quant"
+        "basics": {
+            "visaSponsorship": false,
+            "personalDescription": "A programmer now stepping into the startup world"
+        },
+        "currentJob": { "issues": { "boring_management": true, "boring_team": true } },
+        "education": { "studiesLevel": 7 },
+        "work": {
+            "contractTypes": ["permanent"],
+            "codingYears": 10,
+            "codingReason": "",
+            "searchState": "notSearching",
+            "experienceYears": 0,
+            "codeExperienceYears": 4,
+            "otherExperienceYears": 0
+        },
+        "sound": { "embedUrl": "https://open.spotify.com/embed/playlist/37i9dQZF1DWWl7MndYYxge" },
+        "interestedBy": "Data science, Quant"
     },
     "resumeCustomization": {
-      "imageHeader": {
-        "url": "https://cdn.filestackcontent.com/8I2wVnCRTFxypXRYLRsp",
-        "alt": "Default Banner"
-      },
-      "cardsOrder": [
-        { "type": "basics", "variant": 4 },
-        { "type": "projects", "variant": 4 },
-        { "type": "skills", "variant": 0 },
-        { "type": "experiences", "variant": 4 },
-        { "type": "studies", "variant": 4 },
-        { "type": "language", "variant": 4 }
-      ],
-      "fields": { "work": { "customDateFormat": "YYYY" } },
-      "theme": {
-        "palette": {
-          "primary": {
-            "50": "#e6f6f9",
-            "100": "#cceef4",
-            "200": "#99dce8",
-            "300": "#66cbdd",
-            "400": "#33b9d1",
-            "500": "#00a8c6",
-            "600": "#00869e",
-            "700": "#006577",
-            "800": "#00434f",
-            "900": "#002228",
-            "contrastDefaultColor": "light"
-          },
-          "secondary": {
-            "50": "#ecf9fa",
-            "100": "#d9f2f5",
-            "200": "#b3e6ea",
-            "300": "#8cd9e0",
-            "400": "#66cdd5",
-            "500": "#40c0cb",
-            "600": "#339aa2",
-            "700": "#26737a",
-            "800": "#1a4d51",
-            "900": "#0d2629",
-            "contrastDefaultColor": "light"
-          },
-          "tertiary": {
-            "50": "#fefefd",
-            "100": "#fefcfa",
-            "200": "#fdfaf5",
-            "300": "#fbf7f1",
-            "400": "#faf5ec",
-            "500": "#f9f2e7",
-            "600": "#c7c2b9",
-            "700": "#95918b",
-            "800": "#64615c",
-            "900": "#32302e",
-            "contrastDefaultColor": "light"
-          }
+        "imageHeader": { "url": "https://cdn.filestackcontent.com/8I2wVnCRTFxypXRYLRsp", "alt": "Default Banner" },
+        "cardsOrder": [
+            { "type": "basics", "variant": 4 },
+            { "type": "projects", "variant": 4 },
+            { "type": "skills", "variant": 0 },
+            { "type": "experiences", "variant": 4 },
+            { "type": "studies", "variant": 4 },
+            { "type": "language", "variant": 4 }
+        ],
+        "fields": { "work": { "customDateFormat": "YYYY" } },
+        "theme": {
+            "palette": {
+                "primary": {
+                    "50": "#e6f6f9",
+                    "100": "#cceef4",
+                    "200": "#99dce8",
+                    "300": "#66cbdd",
+                    "400": "#33b9d1",
+                    "500": "#00a8c6",
+                    "600": "#00869e",
+                    "700": "#006577",
+                    "800": "#00434f",
+                    "900": "#002228",
+                    "contrastDefaultColor": "light"
+                },
+                "secondary": {
+                    "50": "#ecf9fa",
+                    "100": "#d9f2f5",
+                    "200": "#b3e6ea",
+                    "300": "#8cd9e0",
+                    "400": "#66cdd5",
+                    "500": "#40c0cb",
+                    "600": "#339aa2",
+                    "700": "#26737a",
+                    "800": "#1a4d51",
+                    "900": "#0d2629",
+                    "contrastDefaultColor": "light"
+                },
+                "tertiary": {
+                    "50": "#fefefd",
+                    "100": "#fefcfa",
+                    "200": "#fdfaf5",
+                    "300": "#fbf7f1",
+                    "400": "#faf5ec",
+                    "500": "#f9f2e7",
+                    "600": "#c7c2b9",
+                    "700": "#95918b",
+                    "800": "#64615c",
+                    "900": "#32302e",
+                    "contrastDefaultColor": "light"
+                }
+            }
         }
-      }
     }
-  }
-  
+}
